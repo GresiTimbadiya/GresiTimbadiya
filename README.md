@@ -1,1 +1,1 @@
-<p align="center">Hello , 👋 I am Gresi Timbadiya</p>
+<p align="center" color=#fff >Hello 👋 I am Gresi Timbadiya</p>
