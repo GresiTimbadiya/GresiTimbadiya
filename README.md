@@ -6,30 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Banner for Github</title>
-    <style>
-        /* .banner {
-            padding: 100px 50px ;
-            background-image: url(https://images.pexels.com/photos/296115/pexels-photo-296115.jpeg?auto=compress&cs=tinysrgb&w=600);
-            background-repeat: no-repeat;
-            background-size: cover;
-            background-position: center;
-            position: relative;
-            color: #fff;
-            z-index: 111;
-        } */
-
-        .banner::after {
-            content: "";
-            position: absolute;
-            box-sizing: border-box;
-            background-color: rgba(0, 0, 0, 0.788);
-            width: 100%;
-            height: 100%;
-            top: 0;
-            left: 0;
-            z-index: -1;
-        }
-    </style>
+    
 </head>
 
 <body>
