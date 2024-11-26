@@ -16,10 +16,8 @@
     ![figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)<br>
 
-    <p align="center">
-     <img alt="coding" width="400"
+   <img alt="coding" width="400"
         src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif">
-    </p><br><br>
   
 - 🌱 I’m currently learning **FullStack development course**
 
