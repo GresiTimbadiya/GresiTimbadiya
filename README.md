@@ -4,7 +4,9 @@
 <p align="center">
   <img alt="coding" width="400"
         src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif">
-</p>
+</p><br>
+
+## 🌐 Socials:
 
 - 🌱 I’m currently learning **FullStack development course**
 
