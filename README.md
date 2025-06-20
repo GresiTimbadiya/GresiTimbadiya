@@ -25,7 +25,7 @@
   
 - 🌱 I’m currently learning **FullStack development course**
 
-- 💬 Ask me about **Web design**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **gresitimbadiya@gmail.com**
 <br>
