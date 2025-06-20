@@ -10,13 +10,13 @@
   </a><br><br>
 
   # 💻 Tech Stack:
-   ![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/Css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
-   ![figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
-   ![React](https://img.shields.io/badge/React-4CAF50?style=plastic&logo=react&logoColor=white)
+  ![React](https://img.shields.io/badge/React-4CAF50?style=plastic&logo=react&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+  ![figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/Css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
     <br>
 <p align="center">
    <img alt="coding" width="400"
