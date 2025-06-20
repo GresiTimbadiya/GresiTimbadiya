@@ -16,7 +16,7 @@
    ![figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
-   ![React](https://img.shields.io/badge/React-FF0000?style=plastic&logo=react&logoColor=blue)
+   ![React](https://img.shields.io/badge/React-4CAF50?style=plastic&logo=react&logoColor=white)
     <br>
 <p align="center">
    <img alt="coding" width="400"
