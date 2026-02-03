@@ -10,7 +10,7 @@
   </a><br><br>
 
   # 💻 Tech Stack:
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-%231572B6?style=plastic&logo=node.js&logoColor=white)
   ![React](https://img.shields.io/badge/React-4CAF50?style=plastic&logo=react&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
